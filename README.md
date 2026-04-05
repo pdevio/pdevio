@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.png" width="100%" />
+</p>
+
 # Hi 👋, I'm Priyanshu Dev
 
 ### A full-stack developer
