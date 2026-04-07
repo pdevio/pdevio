@@ -2,44 +2,71 @@
   <img src="banner-github.png" width="100%" />
 </p>
 
-# Hi 👋, I'm Priyanshu Dev
+<h1>priyanshu dev</h1>
+<p>full-stack developer · ece undergrad · dhanbad, india</p>
 
-### A full-stack developer
+<br/>
 
-- 🔭 I'm currently working on **a developer portfolio project**
+<table>
+  <tr><td width="130">🔭 working on</td><td>developer portfolio + open source</td></tr>
+  <tr><td>🌱 learning</td><td>java · spring boot · rust</td></tr>
+  <tr><td>💬 ask me about</td><td>web dev, system design, dsa, os, dbms, networking</td></tr>
+  <tr><td>📝 writing</td><td><a href="https://dev.to/priyanshudev">dev.to/priyanshudev</a></td></tr>
+  <tr><td>🌐 portfolio</td><td><a href="https://priyanshudev.me">priyanshudev.me</a></td></tr>
+  <tr><td>📫 email</td><td>priyanshu.dev.in@gmail.com</td></tr>
+  <tr><td>⚡ fun fact</td><td>i love cats</td></tr>
+</table>
 
-- 🌱 I'm currently learning **java and springboot**
+<br/>
 
-- 👯 I'm looking to collaborate on **open source projects**
+<h3>stack</h3>
 
-- 🤝 I'm looking for help with **ai**
+<table>
+  <tr><td width="130">languages</td><td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,bash,rust&theme=dark" /></td></tr>
+  <tr><td>frontend</td><td><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" /></td></tr>
+  <tr><td>backend</td><td><img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" /></td></tr>
+  <tr><td>databases</td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" /></td></tr>
+  <tr><td>devops / cloud</td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git&theme=dark" /></td></tr>
+  <tr><td>tools</td><td><img src="https://skillicons.dev/icons?i=figma,arduino,vscode&theme=dark" /></td></tr>
+</table>
 
-- 💬 Ask me about **web dev, system design, dsa, networking, os and dbms concepts**
+<br/>
 
-- 📫 How to reach me **priyanshu.dev.in@gmail.com**
+<h3>github analytics</h3>
 
-- ⚡ Fun fact **i love cats**
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=pdevio&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=f0a09a&rank_icon=github&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pdevio&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://streak-stats.demolab.com?user=pdevio&theme=transparent&hide_border=true&background=00000000&ring=f0a09a&fire=f0a09a&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=00000000" />
+    </td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at **[https://priyanshudev.me](https://priyanshudev.me)**
+<br/>
 
-- 📝 I regularly write articles on **[https://dev.to/priyanshudev](https://dev.to/priyanshudev)**
+<h3>connect</h3>
 
-- 📄 Know about my experiences **[https://secret-lathe-8f6.notion.site/Resume-31160773ede180f38a23fcee56b16a99?pvs=74](https://secret-lathe-8f6.notion.site/Resume-31160773ede180f38a23fcee56b16a99?pvs=74)**
+<a href="https://github.com/pdevio"><img src="https://img.shields.io/badge/github-pdevio-161b22?style=flat-square&logo=github&logoColor=e6edf3" /></a>
+<a href="https://twitter.com/pdev_io"><img src="https://img.shields.io/badge/x-pdev__io-161b22?style=flat-square&logo=x&logoColor=e6edf3" /></a>
+<a href="https://instagram.com/dvceo"><img src="https://img.shields.io/badge/instagram-dvceo-161b22?style=flat-square&logo=instagram&logoColor=e6edf3" /></a>
+<a href="https://linkedin.com/in/priyanshudev1"><img src="https://img.shields.io/badge/linkedin-priyanshudev1-161b22?style=flat-square&logo=linkedin&logoColor=e6edf3" /></a>
+<a href="https://youtube.com/@priyanshu.builds"><img src="https://img.shields.io/badge/youtube-priyanshu.builds-161b22?style=flat-square&logo=youtube&logoColor=e6edf3" /></a>
+<a href="https://leetcode.com/priyanshudev"><img src="https://img.shields.io/badge/leetcode-400%2B_solved-161b22?style=flat-square&logo=leetcode&logoColor=e6edf3" /></a>
+<a href="https://stackoverflow.com/users/17372893"><img src="https://img.shields.io/badge/stackoverflow-161b22?style=flat-square&logo=stackoverflow&logoColor=e6edf3" /></a>
+<a href="https://dev.to/priyanshudev"><img src="https://img.shields.io/badge/dev.to-priyanshudev-161b22?style=flat-square&logo=devdotto&logoColor=e6edf3" /></a>
+<a href="https://codeforces.com/profile/priyanshudev"><img src="https://img.shields.io/badge/codeforces-priyanshudev-161b22?style=flat-square&logo=codeforces&logoColor=e6edf3" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/pdevio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pdevio" height="30" width="40" /></a>
-<a href="https://dev.to/priyanshudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="priyanshudev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshudev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshudev1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17372893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17372893" height="30" width="40" /></a>
-<a href="https://kaggle.com/priyanshudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanshudev" height="30" width="40" /></a>
-<a href="https://instagram.com/pdevio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pdevio" height="30" width="40" /></a>
-<a href="https://twitter.com/pdev_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pdev_io" height="30" width="40" /></a>
-<a href="https://youtube.com/priyanshu.builds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyanshu.builds" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/priyanshudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priyanshudev" height="30" width="40" /></a>
-<a href="https://leetcode.com/priyanshudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshudev" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+<h3>support</h3>
 
+<a href="https://buymeacoffee.com/priyanshudev"><img src="https://img.shields.io/badge/buy_me_a_coffee-161b22?style=flat-square&logo=buymeacoffee&logoColor=e6edf3" /></a>
+<img src="https://img.shields.io/badge/ETH-0xc388b454c98F52963F3544E1dF07195a23daEbab-161b22?style=flat-square&logo=ethereum&logoColor=e6edf3" />
