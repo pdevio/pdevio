@@ -13,7 +13,7 @@
   <tr><td>💬 ask me about</td><td>web dev, system design, dsa, os, dbms, networking</td></tr>
   <tr><td>📝 writing</td><td><a href="https://dev.to/priyanshudev">dev.to/priyanshudev</a></td></tr>
   <tr><td>🌐 portfolio</td><td><a href="https://priyanshudev.me">priyanshudev.me</a></td></tr>
-  <tr><td>📫 email</td><td>priyanshu.dev.in@gmail.com</td></tr>
+  <tr><td>📫 email</td><td>To: contact@priyanshudev.me</td></tr>
   <tr><td>⚡ fun fact</td><td>i love cats</td></tr>
 </table>
 
