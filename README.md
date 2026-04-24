@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-priyanshudevs-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshudevs)
-[![X](https://img.shields.io/badge/x-pdev__io-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pdev_io)
+[![X](https://img.shields.io/badge/x-priyanshudevx-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/priyanshudevx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-priyanshudev1-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)
 [![Portfolio](https://img.shields.io/badge/portfolio-priyanshudev.me-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://priyanshudev.me)
 
