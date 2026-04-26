@@ -10,7 +10,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github-priyanshudevs-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshudevs)
+[![GitHub](https://img.shields.io/badge/github-pdevio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pdevio)
 [![X](https://img.shields.io/badge/x-priyanshudevx-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/priyanshudevx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-priyanshudev1-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)
 [![Portfolio](https://img.shields.io/badge/portfolio-priyanshudev.me-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://priyanshudev.me)
@@ -66,13 +66,13 @@ I'm a first-year ECE student who started coding in 8th grade and never really st
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=priyanshudevs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=f0a09a&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=pdevio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=f0a09a&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=priyanshudevs&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pdevio&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" height="165" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=priyanshudevs&theme=transparent&hide_border=true&background=0d1117&ring=f0a09a&fire=f0a09a&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=00000000" width="700" />
+<img src="https://streak-stats.demolab.com?user=pdevio&theme=transparent&hide_border=true&background=0d1117&ring=f0a09a&fire=f0a09a&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=00000000" width="700" />
 
 </div>
 
@@ -114,7 +114,7 @@ I'm a first-year ECE student who started coding in 8th grade and never really st
 
 ## 🤝 connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-priyanshudevs-161b22?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/priyanshudevs)
+[![GitHub](https://img.shields.io/badge/GitHub-pdevio-161b22?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/pdevio)
 [![X](https://img.shields.io/badge/X-pdev__io-161b22?style=for-the-badge&logo=x&logoColor=e6edf3)](https://twitter.com/pdev_io)
 [![Instagram](https://img.shields.io/badge/Instagram-dvceo-161b22?style=for-the-badge&logo=instagram&logoColor=e6edf3)](https://instagram.com/dvceo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshudev1-161b22?style=for-the-badge&logo=linkedin&logoColor=e6edf3)](https://linkedin.com/in/priyanshudev1)
@@ -133,5 +133,5 @@ I'm a first-year ECE student who started coding in 8th grade and never really st
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshudevs&style=flat-square&color=f0a09a&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=pdevio&style=flat-square&color=f0a09a&label=profile+views" />
 </div>
